@@ -1,3 +1,3 @@
-from .game import main
+from .data import main
 
 main()
